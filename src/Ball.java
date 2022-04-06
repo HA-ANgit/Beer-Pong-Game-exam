@@ -1,0 +1,1 @@
+import com.brackeen.javagamebook.graphics.*;public class Ball extends Sprite{	public Ball(Animation anim){		super(anim);	}	}
